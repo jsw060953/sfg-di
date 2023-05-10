@@ -1,11 +1,11 @@
 package guru.springframework.sfgdi;
 
-import guru.springframework.Controller.MyController;
+import guru.springframework.sfgdi.Controller.MyController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 
-@SpringBootApplication
+@SpringBootApplication()
 public class SfgDiApplication {
 
 	public static void main(String[] args) {

@@ -1,8 +1,7 @@
-package guru.springframework.Controller;
+package guru.springframework.sfgdi.Controller;
 
-import guru.springframework.sfgdi.SfgDiApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.stereotype.Controller;
+
 @Controller
 public class MyController {
 
